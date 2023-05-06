@@ -13,3 +13,7 @@ MERN is a full-stack web development framework composed of four technologies: Mo
 - `Node` is a JavaScript runtime environment that provides you with the ability to run JavaScript on a machine rather than in a browser.
 
 In my project, you can see how to pass data, create states, and connect the front-end to the back-end by fetching the data from the back-end.
+
+![GitHub language count](https://img.shields.io/github/languages/count/{username}/{repo-name})
+![GitHub top language](https://img.shields.io/github/languages/top/{username}/{repo-name}?color=yellow)
+![Bitbucket open issues]
