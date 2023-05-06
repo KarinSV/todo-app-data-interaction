@@ -16,4 +16,3 @@ In my project, you can see how to pass data, create states, and connect the fron
 
 ![GitHub language count](https://img.shields.io/github/languages/count/KarinSV/todo-app-data-interaction)
 ![GitHub top language](https://img.shields.io/github/languages/top/KarinSV/todo-app-data-interaction?color=yellow)
-![Bitbucket open issues]
