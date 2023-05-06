@@ -25,5 +25,9 @@ In my project, you can see how to pass data, create states, and connect the fron
 |react-scripts: 5.0.1| mongoose: ^7.1.0 |
 |                    | nodemon: ^2.0.22 |
 
+# Screenshots of this project
+
+
+
 ![GitHub language count](https://img.shields.io/github/languages/count/KarinSV/todo-app-data-interaction)
 ![GitHub top language](https://img.shields.io/github/languages/top/KarinSV/todo-app-data-interaction?color=yellow)
