@@ -15,5 +15,14 @@ __MERN__ is a full-stack web development framework composed of four technologies
 
 In my project, you can see how to pass data, create states, and connect the front-end to the back-end by fetching the data from the back-end.
 
+#Dependencies(tech-stacks)
+| Client-side | Server-side |
+|-------------|-------------|
+| axios: ^1.4.0" | cors: ^2.8.5" |
+|react: ^18.2.0" | dotenv: ^16.0.3 |
+|react-dom: ^18.2.0| express: ^4.18.2 |
+|react-scripts: 5.0.1| mongoose: ^7.1.0 |
+|                    | nodemon: ^2.0.22 |
+
 ![GitHub language count](https://img.shields.io/github/languages/count/KarinSV/todo-app-data-interaction)
 ![GitHub top language](https://img.shields.io/github/languages/top/KarinSV/todo-app-data-interaction?color=yellow)
