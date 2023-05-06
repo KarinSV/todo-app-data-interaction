@@ -15,7 +15,8 @@ __MERN__ is a full-stack web development framework composed of four technologies
 
 In my project, you can see how to pass data, create states, and connect the front-end to the back-end by fetching the data from the back-end.
 
-#Dependencies(tech-stacks)
+# Dependencies(tech-stacks)
+
 | Client-side | Server-side |
 |-------------|-------------|
 | axios: ^1.4.0" | cors: ^2.8.5" |
