@@ -1,4 +1,5 @@
 <h1 align="center">ToDo app</h1>
+
 ![Home page](client/src/images/todo-app.png)
 
 # Project description
