@@ -15,6 +15,33 @@ __MERN__ is a full-stack web development framework composed of four technologies
 
 In my project, you can see how to pass data, create states, and connect the front-end to the back-end by fetching the data from the back-end.
 
+# How to run project
+
+## Clone or download
+`$ git clone https://github.com/KarinSV/todo-app-data-interaction.git`<br>
+`$ npm install`
+
+## Client-side usage(PORT: 3000)
+
+`$ cd client  // go to client directory`<br>
+`$ npm install   // npm install packages`<br>
+`$ npm install axios  // npm install axios`<br>
+`$ npm start`<br>
+
+## Server-side usage(PORT: 3001)
+
+`$ cd server   // go to server directory`<br>
+`$ npm install // npm install packages`<br>
+`$ npm install mongoose express cors dotenv nodemon // install dependencies`<br>
+`$ npm start` <br>
+
+## Connect to database
+
+I used MongoDB to connect to database. Create an .env file inside server directory. 
+
+`PORT = 3001`<br>
+`DB_CONNECT = mongodb+srv://{user name}:{password}@......`
+
 # Dependencies(tech-stacks)
 
 | Client-side | Server-side |
@@ -24,12 +51,6 @@ In my project, you can see how to pass data, create states, and connect the fron
 |react-dom: ^18.2.0| express: ^4.18.2 |
 |react-scripts: 5.0.1| mongoose: ^7.1.0 |
 |                    | nodemon: ^2.0.22 |
-
-# Screenshots of this project
-
-![Home page](client/src/images/todo-app.jpg)
-
-
 
 ![GitHub language count](https://img.shields.io/github/languages/count/KarinSV/todo-app-data-interaction)
 ![GitHub top language](https://img.shields.io/github/languages/top/KarinSV/todo-app-data-interaction?color=yellow)
