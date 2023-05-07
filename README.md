@@ -27,6 +27,8 @@ In my project, you can see how to pass data, create states, and connect the fron
 
 # Screenshots of this project
 
+![Home page](client/src/images/todo-app.jpg)
+
 
 
 ![GitHub language count](https://img.shields.io/github/languages/count/KarinSV/todo-app-data-interaction)
